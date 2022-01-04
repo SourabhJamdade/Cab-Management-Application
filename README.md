@@ -29,6 +29,10 @@ python cab_manegement.py
 ## Before Executing .py File
 Call **createTable()** function Once At Line No. *593*, To Create & Connect Database And Create Required Tables In Database
 
+## Admin Credentials
+#### Username - **admin**
+#### Password - **admin**
+
 ## Snapshots
 ### Dealer Registration
 ![1](https://user-images.githubusercontent.com/94708798/148097347-e1aca624-6c0b-497c-aa9d-c6ae1d30c3c2.JPG)
