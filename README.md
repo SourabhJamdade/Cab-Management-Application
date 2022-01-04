@@ -16,7 +16,11 @@ Use [DB Browser](https://sqlitebrowser.org/dl/) To View And Manage Database.
 ## How To Use
 ```bash
 git clone https://github.com/SourabhJamdade/Cab-Management-Application
+```
+```bash
 cd Cab-Management-Application
+```
+```bash
 python cab_manegement.py
 ```
 ## Before Executing .py File
