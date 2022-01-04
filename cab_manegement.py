@@ -89,7 +89,11 @@ def createTable():
                 user_phone VARCHAR(20) NOT NULL)'''
 
         x.execute(usr)
+        
+        ad="INSERT INTO admin VALUES(1,'admin','admin')"
 
+        x.execute(ad)
+        
         print("Tables Are Created Successfully...!!")
     except Exception as z:
         print("Databse Error...",z)
