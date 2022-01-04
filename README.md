@@ -1,6 +1,9 @@
 # Cab Management Application
 
 Cab Management Application Using Python With SQlite Database.
+## Requirement
+[**Python**](https://www.python.org/downloads/) Version Above 3.0*
+
 
 ## Installation
 
@@ -24,7 +27,7 @@ cd Cab-Management-Application
 python cab_manegement.py
 ```
 ## Before Executing .py File
-Call **createTable()** function At Line No. 593, To Create & Connect Database And Create Required Tables In Database
+Call **createTable()** function Once At Line No. *593*, To Create & Connect Database And Create Required Tables In Database
 
 ## Snapshots
 ### Dealer Registration
