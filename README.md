@@ -1,6 +1,6 @@
-# Cab Management Application
+# Simple (CLI) Cab Management Application
 
-Cab Management Application Using Python With SQlite Database. *(For TextBook Internship)*
+Simple (CLI) Cab Management Application Using Python With SQlite Database. *(For TextBook Internship)*
 ## Requirement
 [**Python**](https://www.python.org/downloads/) Version Above 3.0*\
 **SQlite** Local Database.\
